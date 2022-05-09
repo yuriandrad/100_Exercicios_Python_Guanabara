@@ -1,5 +1,5 @@
-n=float(input('Digite a nota do vagabundo do seu filho!'))
-nn=float(input('Agora digite a segunda nota desse animal!'))
+n=float(input('Digite sua nota: '))
+nn=float(input('Agora digite a segunda nota: '))
 m=(n+nn)/2
-print('A média do acéfalo foi de {:.2f}'.format(m))
+print('A média foi de {:.2f}'.format(m))
 
