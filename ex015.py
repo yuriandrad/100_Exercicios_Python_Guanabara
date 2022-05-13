@@ -1,5 +1,0 @@
-aluguel=float(input('Quantos dias alugados? '))
-km=float(input('Quantos Km rodados? '))
-c3=(aluguel*60) + (km*0.15)
-print('Por ter alugado {:.0f} dias, corrido {} KM'.format(aluguel, km))
-print('O valor final foi de R${:.2f}'.format(c3))
